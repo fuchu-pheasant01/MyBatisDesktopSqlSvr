@@ -7,6 +7,18 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/mssql-jdbc-7.2.2.jre11.jar"/>
-	<classpathentry kind="lib" path="lib/mybatis-3.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/ant-1.10.3.jar"/>
+	<classpathentry kind="lib" path="lib/ant-launcher-1.10.3.jar"/>
+	<classpathentry kind="lib" path="lib/asm-7.0.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-3.2.10.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.24.1-GA.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.11.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.11.2.jar"/>
+	<classpathentry kind="lib" path="lib/mybatis-3.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/ognl-3.2.10.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.26.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
