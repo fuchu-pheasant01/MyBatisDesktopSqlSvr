@@ -10,7 +10,8 @@ ___
 データベース：Microsoft SQLServer 2019 Express CU12 + GDR  
 データベース接続：Microsoft JDBC Driver 9.4.0 for SQL Server  
 -データベース管理ツール：Microsoft SQL Server Management Studio 18.9.2  
->>>>>>> EditReadme
 O/R マッパー フレームワーク：MyBatis 3.5.2  
 ```
+https://www-creators.com/archives/1272
+https://qiita.com/wann/items/688bc17460a457104d7d
 
